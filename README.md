@@ -1,1 +1,1 @@
-# VoteChain_Sistema-de-Votaciones
+# VoteChain - Sistema de Votaciones
